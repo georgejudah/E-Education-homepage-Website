@@ -1,2 +1,2 @@
 # E-Education-homepage-Website
-Home page for E-education website, Partially designed and partially responsive 
+Landing page for E-education website,using HTML and CSS fully Responsive
